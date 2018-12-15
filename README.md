@@ -1,2 +1,2 @@
-# Analiza-Sygna-w
+# AnaSyg
 Analiza sygnałów 
